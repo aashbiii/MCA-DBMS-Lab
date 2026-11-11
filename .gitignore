@@ -1,0 +1,10 @@
+# Database lock and temp files
+*.ldb
+*.laccdb
+*.tmp
+
+# SQL Developer / IDE state
+.dbeaver/
+.idea/
+.vscode/
+*~
